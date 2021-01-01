@@ -1,0 +1,19 @@
+name: url_launcher_platform_interface
+description: A new Flutter package project.
+version: 0.0.1
+author:
+homepage:
+
+environment:
+  sdk: '>=2.12.0-0 <3.0.0'
+  flutter: ">=1.22.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  plugin_platform_interface: ^1.1.0-nullsafety.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  mockito: ^5.0.0-nullsafety.1
